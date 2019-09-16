@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\TCP_Full\TCP_Server\bin\Debug\netcoreapp2.1\TCP_Server.deps.json
+C:\Users\andre\source\repos\TCP_Full\TCP_Server\bin\Debug\netcoreapp2.1\TCP_Server.runtimeconfig.json
+C:\Users\andre\source\repos\TCP_Full\TCP_Server\bin\Debug\netcoreapp2.1\TCP_Server.runtimeconfig.dev.json
+C:\Users\andre\source\repos\TCP_Full\TCP_Server\bin\Debug\netcoreapp2.1\TCP_Server.dll
+C:\Users\andre\source\repos\TCP_Full\TCP_Server\bin\Debug\netcoreapp2.1\TCP_Server.pdb
+C:\Users\andre\source\repos\TCP_Full\TCP_Server\obj\Debug\netcoreapp2.1\TCP_Server.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\TCP_Full\TCP_Server\obj\Debug\netcoreapp2.1\TCP_Server.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\TCP_Full\TCP_Server\obj\Debug\netcoreapp2.1\TCP_Server.AssemblyInfo.cs
+C:\Users\andre\source\repos\TCP_Full\TCP_Server\obj\Debug\netcoreapp2.1\TCP_Server.dll
+C:\Users\andre\source\repos\TCP_Full\TCP_Server\obj\Debug\netcoreapp2.1\TCP_Server.pdb
+C:\Users\andre\source\repos\TCP_Full\TCP_Server\obj\Debug\netcoreapp2.1\TCP_Server.csprojAssemblyReference.cache
